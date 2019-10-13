@@ -78,7 +78,7 @@ git init 初始化
 1.Checkout git checkout --orphan latest_branch 新建一个分支
 2.添加所有文件 git add -A
 3.提交更改 git commit -m "commit message"
-4.删除分支 git branch -D master
+4.删除分支 git branch -D master11
 5.将当前分支重命名为 master git branch -m master
 6.最后，强制更新您的存储库 git push -f “仓库名” maste
 
