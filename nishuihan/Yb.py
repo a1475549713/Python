@@ -1005,6 +1005,7 @@ def shiJian(hwnd):
 
 
 def Ji_He(hwnd):
+    #哈哈哈哈
     dm.BindWindowEx(hwnd, 'dx2', 'dx2', 'dx', 'dx.public.disable.window.size', 101)
     name = Get_Name(hwnd)
     shiJian(hwnd)
